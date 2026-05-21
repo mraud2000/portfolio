@@ -113,6 +113,11 @@ export const Route = createRootRoute({
           rel: "stylesheet",
           href: appCss,
         },
+
+        {
+          rel: "canonical",
+          href: "https://portfolio.muneaudry.workers.dev/",
+        },
       ],
     }),
   shellComponent: RootShell,
