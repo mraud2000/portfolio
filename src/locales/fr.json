@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact",
+    "toggleTheme": "Changer de thème",
+    "openMenu": "Ouvrir le menu"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Audry Munezero",
+    "title": "Développeur Full-Stack",
+    "intro": "Jeune diplômé en informatique passionné par la création d'applications web élégantes et performantes.",
+    "viewProjects": "Voir les projets",
+    "downloadCV": "Télécharger le CV"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "bio": "Je suis récemment diplômé en génie logiciel, avec un fort intérêt pour les technologies web modernes, l'architecture propre et les expériences utilisateurs soignées. J'aime transformer des problèmes complexes en solutions simples et élégantes.",
+    "educationTitle": "Formation",
+    "education": "Licence en informatique — Université de Technologie, 2025",
+    "goalsTitle": "Objectifs de carrière",
+    "goals": "Rejoindre une équipe innovante où je pourrai évoluer en tant qu'ingénieur full-stack et contribuer à des produits à fort impact."
+  },
+  "skills": {
+    "title": "Compétences",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Outils"
+  },
+  "projects": {
+    "title": "Projets",
+    "viewCode": "Code",
+    "liveDemo": "Démo",
+    "items": [
+      {
+        "title": "Gestionnaire de tâches",
+        "description": "Une application collaborative de gestion de tâches avec mises à jour en temps réel.",
+        "tech": ["React", "Node.js", "PostgreSQL"]
+      },
+      {
+        "title": "Tableau météo",
+        "description": "Un tableau de bord météo épuré avec graphiques interactifs et prévisions sur 7 jours.",
+        "tech": ["React", "Chart.js", "OpenWeather API"]
+      },
+      {
+        "title": "Site Portfolio",
+        "description": "Ce portfolio responsive avec support multilingue et mode sombre.",
+        "tech": ["React", "MUI", "i18next"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Un projet en tête ? Discutons-en.",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer",
+    "success": "Message envoyé avec succès !",
+    "errors": {
+      "nameRequired": "Le nom est requis",
+      "emailRequired": "L'email est requis",
+      "emailInvalid": "Adresse email invalide",
+      "messageRequired": "Le message est requis",
+      "messageShort": "Le message doit contenir au moins 10 caractères"
+    }
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}

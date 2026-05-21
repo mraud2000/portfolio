@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "toggleTheme": "Toggle theme",
+    "openMenu": "Open menu"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Audry Munezero",
+    "title": "Full-Stack Developer",
+    "intro": "Recent computer science graduate passionate about building elegant, performant web applications.",
+    "viewProjects": "View Projects",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "I am a recent graduate in software engineering with a strong interest in modern web technologies, clean architecture, and great user experiences. I enjoy turning complex problems into simple, beautiful solutions.",
+    "educationTitle": "Education",
+    "education": "B.Sc. in Computer Science — University of Technology, 2025",
+    "goalsTitle": "Career Goals",
+    "goals": "Join an innovative team where I can grow as a full-stack engineer and contribute to products that make an impact."
+  },
+  "skills": {
+    "title": "Skills",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Tools"
+  },
+  "projects": {
+    "title": "Projects",
+    "viewCode": "Code",
+    "liveDemo": "Live Demo",
+    "items": [
+      {
+        "title": "Task Manager",
+        "description": "A collaborative task management app with real-time updates and team workspaces.",
+        "tech": ["React", "Node.js", "PostgreSQL"]
+      },
+      {
+        "title": "Weather Dashboard",
+        "description": "A clean weather dashboard with interactive charts and 7-day forecasts.",
+        "tech": ["React", "Chart.js", "OpenWeather API"]
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "This responsive portfolio with multilingual support and dark mode.",
+        "tech": ["React", "MUI", "i18next"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project in mind? Let's talk.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!",
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email address",
+      "messageRequired": "Message is required",
+      "messageShort": "Message must be at least 10 characters"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
