@@ -34,6 +34,11 @@ export const Route = createRootRoute({
           content: "width=device-width, initial-scale=1",
         },
 
+        {
+          name: "google-site-verification",
+          content: "T2KbKWC79yU-LX356c_iUY6hpucYdWb9a9goeyhg5bs",
+        },
+
         // Titre principal
         {
           title: "Audry Munezero | Portfolio Développeur Full Stack",
